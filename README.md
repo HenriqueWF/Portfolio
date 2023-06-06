@@ -2,8 +2,9 @@
 [![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/henriquewfranco/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
-  <img src="https://img.freepik.com/vetores-gratis/fundo-de-tecnologia-digital-abstrata-baixa-poli-linhas-de-conexao_1017-25550.jpg?w=1380&t=st=1686084236~exp=1686084836~hmac=04697549c4be9fbedd50f5617473877e0bad400ed7f87eddab1e99969be038f9" width="1000" height="300">
+  <img src="https://www.unic.ac.cy/wp-content/uploads/2020/03/MSc-Data-Science-Cover.png" width=100%>
 </p>
+
 
 ## **Projetos**:
 Aqui você encontra meus projetos na área de Análise e Ciência de Dados.

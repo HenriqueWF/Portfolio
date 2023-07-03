@@ -13,6 +13,8 @@ Aqui você encontra meus projetos na área de Análise e Ciência de Dados.
 
 [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
 
+[**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
+
 
 ## **Sobre mim**:
 Olá! Meu nome é Henrique Wuicik Franco.

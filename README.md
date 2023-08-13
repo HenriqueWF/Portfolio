@@ -17,18 +17,18 @@ Aqui você encontra meus projetos na área de Análise e Ciência de Dados.
 
 
 ## **Sobre mim**:
-Olá! Meu nome é Henrique Wuicik Franco.
+Olá! Meu nome é Henrique Wuicik Franco. Sou formado em Ciências Biológicas pela PUCPR, contudo foi na área de TI que encontrei minha verdadeira vocação.
 
-Sou formado em Ciências Biológicas pela PUCPR, contudo foi na área de TI que encontrei minha verdadeira vocação. 
+Com experiência de aproximadamente dois anos em suporte de infraestrutura de TI, desenvolvi uma visão abrangente dos desafios tecnológicos corporativos. Hoje, mantenho minha atuação no suporte enquanto também ocupo um cargo de gestão na empresa. Nessa função, obtive a oportunidade de trabalhar com dados, sobretudo usando Power BI e Excel, e pude aprimorar minhas habilidades analíticas.
 
-Durante mais de um ano, atuei como suporte de infraestrutura de TI, o que me proporcionou uma visão abrangente dos desafios tecnológicos enfrentados pelas empresas. Atualmente, exerço uma posição de gestão na empresa, em que obtive a oportunidade de trabalhar com dados e pude aprimorar minhas habilidades analíticas.  
+Atualmente, meu foco profissional está direcionado para a área de dados, principalmente Ciência de Dados, uma vez que essa área une a tecnologia da informação com o âmbito dos negócios. Logo, meu objetivo é contribuir para o crescimento empresarial, de modo a fornecer informações estratégicas baseadas em análise de dados sólida e confiável.
 
-Meu foco profissional está direcionado para a área de dados, especialmente em Ciência de Dados. Estou constantemente aprimorando minhas habilidades técnicas, explorando novas métodos de análise e buscando maneiras inovadoras de extrair insights significativos dos dados. Além disso, meu objetivo é contribuir para o crescimento das empresas, fornecendo informações estratégicas baseadas em análise de dados sólida e confiável.
+Em resumo, sou um entusiasta pelo aprendizado contínuo e estou sempre em busca de aprimoramento. Assim, estou constantemente aperfeiçoando minhas habilidades técnicas em Python, SQL, Power BI, Machine Learning, Estatística, além de outros assuntos relevantes para essa área.
 
-Em resumo, sou uma pessoa apaixonada por aprendizado contínuo e estou sempre em busca de aprimoramento. Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou me seguir no Medium!
+Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou me seguir no Medium!
 
 ## **Links:**
 * [LinkedIn](https://www.linkedin.com/in/henriquewfranco/)
 * [Medium](https://medium.com/@henriquewfranco)
 
-**Background in:** Python, Excel, Power BI.
+**Background in:** Python, Excel, Power BI, SQL.

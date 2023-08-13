@@ -21,7 +21,7 @@ Olá! Meu nome é Henrique Wuicik Franco.
 
 Sou formado em Ciências Biológicas pela PUCPR, contudo foi na área de TI que encontrei minha verdadeira vocação. 
 
-Durante mais de um ano, atuei como suporte de infraestrutura de TI, o que me proporcionou uma visão abrangente dos desafios tecnológicos enfrentados pelas empresas. Atualmente, exerco uma posição de gestão na empresa, em que obtive a oportunidade de trabalhar com dados e pude aprimorar minhas habilidades analíticas.  
+Durante mais de um ano, atuei como suporte de infraestrutura de TI, o que me proporcionou uma visão abrangente dos desafios tecnológicos enfrentados pelas empresas. Atualmente, exerço uma posição de gestão na empresa, em que obtive a oportunidade de trabalhar com dados e pude aprimorar minhas habilidades analíticas.  
 
 Meu foco profissional está direcionado para a área de dados, especialmente em Ciência de Dados. Estou constantemente aprimorando minhas habilidades técnicas, explorando novas métodos de análise e buscando maneiras inovadoras de extrair insights significativos dos dados. Além disso, meu objetivo é contribuir para o crescimento das empresas, fornecendo informações estratégicas baseadas em análise de dados sólida e confiável.
 

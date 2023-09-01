@@ -15,6 +15,7 @@ Aqui você encontra meus projetos na área de Análise e Ciência de Dados.
 
 [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
 
+[**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
 
 ## **Sobre mim**:
 Olá! Meu nome é Henrique Wuicik Franco. Sou formado em Ciências Biológicas pela PUCPR, contudo foi na área de TI que encontrei minha verdadeira vocação.

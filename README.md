@@ -2,8 +2,9 @@
 [![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/henriquewfranco/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
-  <img src="https://www.unic.ac.cy/wp-content/uploads/2020/03/MSc-Data-Science-Cover.png" width=100%>
+  <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=70%>
 </p>
+
 
 ## **Projetos**
 

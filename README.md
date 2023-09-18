@@ -8,13 +8,16 @@
 
 ## **Projetos**
 
-### **Análise Exploratória de Dados:**
+### **Análise Exploratória de Dados com Python:**
 
 [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
 
 [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
 
 [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
+
+### **Dashboards Power BI**
+[**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias! 

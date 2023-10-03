@@ -8,7 +8,7 @@
 
 ## **Projetos**
 
-### **Análise Exploratória de Dados com Python:**
+### **Python:**
 
 [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
 
@@ -18,7 +18,7 @@
 
 [**British Airways(BA)**](https://github.com/HenriqueWF/British_Airways)
 
-### **Dashboards Power BI**
+### **Power BI**
 [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
 
 ### **SQL**

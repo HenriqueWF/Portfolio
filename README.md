@@ -16,8 +16,13 @@
 
 [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
 
+[**British Airways(BA)**](https://github.com/HenriqueWF/British_Airways)
+
 ### **Dashboards Power BI**
 [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
+
+### **SQL**
+[**Storytelling com SQL — Analisando dados de RH**](https://medium.com/@henriquewfranco/storytelling-com-sql-analisando-dados-de-rh-ce60ec2f3122)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias! 

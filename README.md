@@ -22,7 +22,7 @@
 [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
 
 ### **SQL**
-[**Storytelling com SQL — Analisando dados de RH**](https://medium.com/@henriquewfranco/storytelling-com-sql-analisando-dados-de-rh-ce60ec2f3122)
+[**Storytelling com SQL — Analisando dados de RH**](https://github.com/HenriqueWF/SQL_RH/tree/main)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias! 

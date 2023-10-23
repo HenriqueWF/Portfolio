@@ -5,16 +5,16 @@
   <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=50%>
 </p>
 
-## **Projetos**
+## **PROJETOS**
 
-### **Power BI**
+## **Power BI**
 [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
  - Dashboard que complementa o meu estudo da COVID-19, o qual teve como foco os registros de óbitos e casos confirmados da doença.
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
 </p>
 
-### **Python:**
+## **Python:**
 
 [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com foco nos registros de óbitos e casos da doença.
@@ -45,7 +45,7 @@
  - Análise exploratória utilizando Python e bibliotecas de dados para verificar reviews dos clientes
  - Criação de modelo preditivo para identificar clientes com maior propensão de compra de passagens
 
-### **SQL**
+## **SQL**
 [**Storytelling com SQL — Analisando dados de RH**](https://github.com/HenriqueWF/SQL_RH/tree/main)
  - Realizei uma análise de uma base de dados de RH apenas utilizando SQL.
  - Meu objetivo foi compreender o que leva os funcionários a saírem da empresa e como melhorar o ambiente de trabalho e a retenção de talentos.
@@ -55,17 +55,15 @@
   <img alt="AttNo" width="45%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/61d62e13-e0d1-42cf-ad21-eabf3f88e0e8">
   <img alt="AttYes" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/37806dd9-440d-4a64-a530-ada4d81cd8f3">
 </p>
+   
    - Funcionários mais jovens (18–29 anos) têm a maior taxa de saída;
 <p align="center">
-  <img alt="SQL" width="60%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/03ac575a-5b34-4f73-9f48-83d5b4614818">
+  <img alt="SQL" width="55%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/03ac575a-5b34-4f73-9f48-83d5b4614818">
 </p>
-   - Funcionários que moram mais longe do trabalho tendem a deixar a empresa;
-<p align="center">
-  <img alt="SQL" width="60%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/1b6153ae-74a9-4e1f-907a-96fb2fa67dbd">
-</p>
+
  - A partir dos achados, fiz algumas recomendações de estratégias para serem adotadas pela empresa, a fim de aprimorar a retenção de funcionários.
 
-## **Artigos**
+## **ARTIGOS**
 [**Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais**](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
  - Escrevi um guia de como utilizar a biblioteca PyDeck para Visualização de Dados Geoespaciais.
 <p align="center">
@@ -82,7 +80,7 @@
 </p>
 
 
-## **Sobre**
+## **SOBRE**
 Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência de mais de dois anos em suporte de infraestrutura de TI.
 
 Sou formado em Ciências Biológicas pela PUCPR. Nessa graduação, recebi o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Todavia, embora minha carreira tenha começado na Biologia, foi na área da TI que encontrei minha verdadeira vocação.
@@ -97,7 +95,7 @@ Atualmente, meu foco profissional está direcionado para a Análise e Ciência d
 
 Possuo conhecimentos nas linguagens de programação SQL e Python, com projetos usando bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn, além de ter experiência em ferramentas como Power BI e Excel.
 
-## Contato
+## CONTATO
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo através dos links abaixo:
 
 **Links para me acharem:**

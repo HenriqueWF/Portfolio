@@ -70,16 +70,26 @@
   <img alt="Pydeck" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/b2ba82c6-e728-4517-bb4f-44169a6b5def">
 </p>
 
-### [**Matplotlib e Storytelling com Dados - Pt. I**]()
- - Em construção
+### [**Matplotlib e Storytelling com Dados - Pt. I**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60)
+ - Artigo publicado no [Data Hackers](https://medium.com/data-hackers);
+ - Escrevi sobre o funcionamento do Matplotlib, em que:
+   - Expliquei sobre a hierarquia dessa biblioteca
+   - Mostrei as diferenças entre Interface Pyplot e Interface Orientada a Objetos
+   - Expus os elementos da anatomia de uma ‘Figure’.
+<p align="center">
+  <img alt="Pydeck" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/5c266b99-ee5d-41ab-bee6-e30f7e9a44ad" href=”https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60”>
+</p>
+
+
 
 ### [**Matplotlib e Storytelling com Dados - Pt. II**]()
  - Em construção
 <p align="center">
-  <img alt="Pydeck" width="100%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/9293406d-4f57-47f3-91fb-7edf54254ea4">
+  <img alt="Pydeck" width="100%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/d08e2b6c-c049-4f36-9dc4-067ee5771b9a" >
 </p>
 
-### [**Compiladados! — O compilado de materiais da área de dados**]()
+
+### [**Compiladados! — O compilado de materiais da área de dados**](https://medium.com/@henriquewfranco/compiladados-o-compilado-de-materiais-da-%C3%A1rea-de-dados-0e59c5609e6e)
  - Fiz um compilado de materiais e indicações de conteúdos gratuitos ou com preços acessíveis para ajudar pessoas que estão migrando de carreira e/ou estejam iniciando nos estudos de Análise e Ciência de Dados. 
 <p align="center">
   <img alt="Compiladados" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/e41e927f-41c0-4f46-9827-b6c31ebe221d">

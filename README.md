@@ -8,7 +8,7 @@
 ## **PROJETOS**
 
 ## **Power BI**
-[**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
+### [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
  - Dashboard que complementa o meu estudo da COVID-19, o qual teve como foco os registros de óbitos e casos confirmados da doença.
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
@@ -16,14 +16,14 @@
 
 ## **Python:**
 
-[**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
+### [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com foco nos registros de óbitos e casos da doença.
  - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **Acesse meu estudo para conferir outros achados!**
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/8bbd3fdf-3e53-4a5e-8ac8-b54402fccb39">
 </p>
 
- [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
+### [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
   - Projeto que ficou em **segundo lugar** na [Competição da Universidade dos Dados](https://www.linkedin.com/feed/update/urn:li:activity:7110232010769510400/).
   - Realizei uma análise exploratória utilizando Python e bibliotecas de dados para obter insights sobre desempenho dos clubes na Série A do Brasileirão.
   - Abaixo há exemplos de gráficos que você vai encontrar no projeto. **Acesse meu estudo para conferir outros achados!**
@@ -32,21 +32,21 @@
   <img alt="Derrotas" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/aa3993ef-e008-4911-8a04-b819fb7b1455">
 </p>
 
-[**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
+### [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
  - Realizei uma análise exploratória com o objetivo de obter informações de preços e distribuição das acomodações desse arquipélago.
  - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck. **Acesse meu estudo para conferir outros achados!**
 <p align="center">
   <img alt="Hawaii Island" width="65%" src="https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/23699bc9-2663-486a-b349-58cfedf3e9ec">
 </p>
 
-[**British Airways(BA)**](https://github.com/HenriqueWF/British_Airways)
+### [**British Airways(BA)**](https://github.com/HenriqueWF/British_Airways)
  - **Trabalho em grupo em andamento.**
  - Web Scraping, utilizando Selenium e Beautiful Soup, de feedback de clientes em site de avaliações
  - Análise exploratória utilizando Python e bibliotecas de dados para verificar reviews dos clientes
  - Criação de modelo preditivo para identificar clientes com maior propensão de compra de passagens
 
 ## **SQL**
-[**Storytelling com SQL — Analisando dados de RH**](https://github.com/HenriqueWF/SQL_RH/tree/main)
+### [**Storytelling com SQL — Analisando dados de RH**](https://github.com/HenriqueWF/SQL_RH/tree/main)
  - Realizei uma análise de uma base de dados de RH apenas utilizando SQL.
  - Meu objetivo foi compreender o que leva os funcionários a saírem da empresa e como melhorar o ambiente de trabalho e a retenção de talentos.
  - Por exemplo, consegui verificar que:
@@ -64,21 +64,26 @@
  - A partir dos achados, fiz algumas recomendações de estratégias para serem adotadas pela empresa, a fim de aprimorar a retenção de funcionários.
 
 ## **ARTIGOS**
-[**Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais**](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
+### [**Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais**](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
  - Escrevi um guia de como utilizar a biblioteca PyDeck para Visualização de Dados Geoespaciais.
 <p align="center">
   <img alt="Pydeck" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/b2ba82c6-e728-4517-bb4f-44169a6b5def">
 </p>
 
-[**Matplotlib e Storytelling com Dados - Pt. I**]()
+### [**Matplotlib e Storytelling com Dados - Pt. I**]()
  - Em construção
 
-[**Matplotlib e Storytelling com Dados - Pt. II**]()
+### [**Matplotlib e Storytelling com Dados - Pt. II**]()
  - Em construção
 <p align="center">
   <img alt="Pydeck" width="100%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/9293406d-4f57-47f3-91fb-7edf54254ea4">
 </p>
 
+### [**Compiladados! — O compilado de materiais da área de dados**]()
+ - Fiz um compilado de materiais e indicações de conteúdos gratuitos ou com preços acessíveis para ajudar pessoas que estão migrando de carreira e/ou estejam iniciando nos estudos de Análise e Ciência de Dados. 
+<p align="center">
+  <img alt="Compiladados" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/e41e927f-41c0-4f46-9827-b6c31ebe221d">
+</p>
 
 ## **SOBRE**
 Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência de mais de dois anos em suporte de infraestrutura de TI.

@@ -18,15 +18,15 @@
 
 [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com foco nos registros de óbitos e casos da doença.
- - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **Confira outros achados do meu estudo no link acima!**
+ - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **Acesse meu estudo para conferir outros achados!**
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/8bbd3fdf-3e53-4a5e-8ac8-b54402fccb39">
 </p>
 
  [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
-  - Projeto que ficou em **segundo lugar** na competição da Universidade dos Dados.
+  - Projeto que ficou em **segundo lugar** na [Competição da Universidade dos Dados](https://www.linkedin.com/feed/update/urn:li:activity:7110232010769510400/).
   - Realizei uma análise exploratória utilizando Python e bibliotecas de dados para obter insights sobre desempenho dos clubes na Série A do Brasileirão.
-  - Abaixo há exemplos de gráficos que você vai encontrar no projeto. **Confira outros achados do meu estudo no link acima!**
+  - Abaixo há exemplos de gráficos que você vai encontrar no projeto. **Acesse meu estudo para conferir outros achados!**
 <p align="center">
   <img alt="Vitórias" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/4e6a1057-25b2-4f8b-8a0d-e29379cba7c8">
   <img alt="Derrotas" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/aa3993ef-e008-4911-8a04-b819fb7b1455">
@@ -34,11 +34,10 @@
 
 [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
  - Realizei uma análise exploratória com o objetivo de obter informações de preços e distribuição das acomodações desse arquipélago.
- - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck. **Confira outros achados do meu estudo no link acima!**
+ - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck. **Acesse meu estudo para conferir outros achados!**
 <p align="center">
   <img alt="Hawaii Island" width="65%" src="https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/23699bc9-2663-486a-b349-58cfedf3e9ec">
 </p>
-
 
 [**British Airways(BA)**](https://github.com/HenriqueWF/British_Airways)
  - **Trabalho em grupo em andamento.**
@@ -48,6 +47,23 @@
 
 ### **SQL**
 [**Storytelling com SQL — Analisando dados de RH**](https://github.com/HenriqueWF/SQL_RH/tree/main)
+ - Realizei uma análise de uma base de dados de RH apenas utilizando SQL.
+ - Meu objetivo foi compreender o que leva os funcionários a saírem da empresa e como melhorar o ambiente de trabalho e a retenção de talentos.
+ - Por exemplo, consegui verificar que:
+   - A média salarial das pessoas que saíram da empresa é menor do que a média salarial dos funcionários que permaneceram;
+<p align="center">
+  <img alt="AttNo" width="45%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/61d62e13-e0d1-42cf-ad21-eabf3f88e0e8">
+  <img alt="AttYes" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/37806dd9-440d-4a64-a530-ada4d81cd8f3">
+</p>
+   - Funcionários mais jovens (18–29 anos) têm a maior taxa de saída;
+<p align="center">
+  <img alt="SQL" width="60%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/03ac575a-5b34-4f73-9f48-83d5b4614818">
+</p>
+   - Funcionários que moram mais longe do trabalho tendem a deixar a empresa;
+<p align="center">
+  <img alt="SQL" width="60%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/1b6153ae-74a9-4e1f-907a-96fb2fa67dbd">
+</p>
+ - A partir dos achados, fiz algumas recomendações de estratégias para serem adotadas pela empresa, a fim de aprimorar a retenção de funcionários.
 
 ## **Artigos**
 [**Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais**](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
@@ -56,13 +72,22 @@
   <img alt="Pydeck" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/b2ba82c6-e728-4517-bb4f-44169a6b5def">
 </p>
 
+[**Matplotlib e Storytelling com Dados - Pt. I**]()
+ - Em construção
+
+[**Matplotlib e Storytelling com Dados - Pt. II**]()
+ - Em construção
+<p align="center">
+  <img alt="Pydeck" width="100%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/9293406d-4f57-47f3-91fb-7edf54254ea4">
+</p>
+
 
 ## **Sobre**
 Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência de mais de dois anos em suporte de infraestrutura de TI.
 
 Sou formado em Ciências Biológicas pela PUCPR. Nessa graduação, recebi o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Todavia, embora minha carreira tenha começado na Biologia, foi na área da TI que encontrei minha verdadeira vocação.
 
-Atuei como gestor de TI e obtive a oportunidade de trabalhar com dados. Nessa função, realizei o **monitoramento de chamados, coletando e analisando dados com Excel e Power BI**.
+Como gestor de TI, uma de minhas funções foi realizar o **monitoramento de chamados, coletando e analisando dados com Excel e Power BI**.
 
 Por meio das análises, liderei a otimização de nossos processos internos, o que resultou em uma redução significativa no tempo de resposta aos chamados dos clientes. Em menos de 3 meses, conseguimos diminuir o tempo de trabalho em 50%, mantendo o faturamento da empresa.
 

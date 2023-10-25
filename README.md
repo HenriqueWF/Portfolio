@@ -1,9 +1,11 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
-[![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/henriquewfranco/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+[![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/henriquewfranco/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
   <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=50%>
 </p>
+
+***Obs.: Aperte no Título de cada projeto/artigo para vê-lo completo!***
 
 ## **PROJETOS**
 
@@ -18,7 +20,7 @@
 
 ### [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com foco nos registros de óbitos e casos da doença.
- - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **Acesse meu estudo para conferir outros achados!**
+ - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **[Acesse meu estudo para conferir outros achados!](https://github.com/HenriqueWF/covid-19)**
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/8bbd3fdf-3e53-4a5e-8ac8-b54402fccb39">
 </p>
@@ -26,7 +28,7 @@
 ### [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
   - Projeto que ficou em **segundo lugar** na [Competição da Universidade dos Dados](https://www.linkedin.com/feed/update/urn:li:activity:7110232010769510400/).
   - Realizei uma análise exploratória utilizando Python e bibliotecas de dados para obter insights sobre desempenho dos clubes na Série A do Brasileirão.
-  - Abaixo há exemplos de gráficos que você vai encontrar no projeto. **Acesse meu estudo para conferir outros achados!**
+  - Abaixo há exemplos de gráficos que você vai encontrar no projeto. [**Acesse meu estudo para conferir outros achados!**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
 <p align="center">
   <img alt="Vitórias" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/4e6a1057-25b2-4f8b-8a0d-e29379cba7c8">
   <img alt="Derrotas" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/aa3993ef-e008-4911-8a04-b819fb7b1455">
@@ -34,7 +36,7 @@
 
 ### [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
  - Realizei uma análise exploratória com o objetivo de obter informações de preços e distribuição das acomodações desse arquipélago.
- - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck. **Acesse meu estudo para conferir outros achados!**
+ - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck. [**Acesse meu estudo para conferir outros achados!**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
 <p align="center">
   <img alt="Hawaii Island" width="65%" src="https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/23699bc9-2663-486a-b349-58cfedf3e9ec">
 </p>
@@ -80,10 +82,15 @@
   <img alt="Pydeck" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/5c266b99-ee5d-41ab-bee6-e30f7e9a44ad" href=”https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60”>
 </p>
 
-
-
-### [**Matplotlib e Storytelling com Dados - Pt. II**]()
- - Em construção
+### [**Matplotlib e Storytelling com Dados - Pt. II**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-ii-35e0da269a1e)
+ - Artigo publicado no [Data Hackers](https://medium.com/data-hackers);
+ - Escrevi um passo a passo de como criar um gráfico informativo por meio dessa biblioteca do Python. O texto foi dividido conforme as seis lições que Cole Nussbaumer apresenta em seu livro:
+   - 1. Entenda o contexto
+   - 2. Escolha uma apresentação visual adequada
+   - 3. Elimine a saturação
+   - 4. Foque a atenção onde você deseja
+   - 5. Pense como um designer
+   - 6. Conte uma história
 <p align="center">
   <img alt="Pydeck" width="100%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/d08e2b6c-c049-4f36-9dc4-067ee5771b9a" >
 </p>
@@ -98,7 +105,9 @@
 ## **SOBRE**
 Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência de mais de dois anos em suporte de infraestrutura de TI.
 
-Sou formado em Ciências Biológicas pela PUCPR. Nessa graduação, recebi o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Todavia, embora minha carreira tenha começado na Biologia, foi na área da TI que encontrei minha verdadeira vocação.
+Sou formado em Ciências Biológicas pela PUCPR. Nessa graduação, recebi o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Durante o curso, realizei diversas análises de dados de experimentos.
+
+Todavia, embora minha carreira tenha começado na Biologia, foi na área da TI que encontrei minha verdadeira vocação.
 
 Como gestor de TI, uma de minhas funções foi realizar o **monitoramento de chamados, coletando e analisando dados com Excel e Power BI**.
 

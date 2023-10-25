@@ -5,7 +5,7 @@
   <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=50%>
 </p>
 
-***Obs.: Aperte no Título de cada projeto/artigo para vê-lo completo!***
+***Obs.: Aperte no Título de cada projeto/artigo para verificar mais detalhes!***
 
 ## **PROJETOS**
 

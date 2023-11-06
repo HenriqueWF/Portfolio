@@ -5,13 +5,11 @@
   <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=50%>
 </p>
 
-***Obs.: Aperte no Título de cada projeto/artigo para verificar mais detalhes!***
-
 ## **PROJETOS**
 
 ## **Power BI**
 ### [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
- - Dashboard que complementa o meu estudo da COVID-19, o qual teve como foco os registros de óbitos e casos confirmados da doença.
+ - **Dashboard que complementa o meu estudo da COVID-19 (projeto abaixo)**, o qual teve como foco os registros de óbitos e casos confirmados da doença.
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
 </p>
@@ -20,15 +18,18 @@
 
 ### [**Panorama de Casos e Óbitos da COVID-19**](https://github.com/HenriqueWF/covid-19)
  - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com foco nos registros de óbitos e casos da doença.
- - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19. **[Acesse meu estudo para conferir outros achados!](https://github.com/HenriqueWF/covid-19)**
+ - O gráfico abaixo apresenta os países com os mais altos números de óbitos devido à COVID-19.
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/HenriqueWF/covid-19)**
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/covid-19/assets/86746927/8bbd3fdf-3e53-4a5e-8ac8-b54402fccb39">
 </p>
 
+
 ### [**Análise de Dados da Era dos Pontos Corridos da Série A do Campeonato Brasileiro**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
-  - Projeto que ficou em **segundo lugar** na [Competição da Universidade dos Dados](https://www.linkedin.com/feed/update/urn:li:activity:7110232010769510400/).
+  - Projeto que ficou em **segundo lugar** na [**Competição da Universidade dos Dados**](https://www.linkedin.com/feed/update/urn:li:activity:7110232010769510400/).
   - Realizei uma análise exploratória utilizando Python e bibliotecas de dados para obter insights sobre desempenho dos clubes na Série A do Brasileirão.
-  - Abaixo há exemplos de gráficos que você vai encontrar no projeto. [**Acesse meu estudo para conferir outros achados!**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
+  - Abaixo há exemplos de gráficos que você vai encontrar no projeto.
+  - [**Acesse meu estudo para conferir outros achados!**](https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/tree/main)
 <p align="center">
   <img alt="Vitórias" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/4e6a1057-25b2-4f8b-8a0d-e29379cba7c8">
   <img alt="Derrotas" width="45%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/aa3993ef-e008-4911-8a04-b819fb7b1455">
@@ -36,7 +37,8 @@
 
 ### [**Análise de Dados do Airbnb - Havaí**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
  - Realizei uma análise exploratória com o objetivo de obter informações de preços e distribuição das acomodações desse arquipélago.
- - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck. [**Acesse meu estudo para conferir outros achados!**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
+ - Abaixo foi verificada a distribuição geoespacial das propriedades do Havaí no Airbnb usando a biblioteca Pydeck.
+ - [**Acesse meu estudo para conferir outros achados!**](https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/tree/main)
 <p align="center">
   <img alt="Hawaii Island" width="65%" src="https://github.com/HenriqueWF/Analise_Dados_Airbnb_Havai/assets/86746927/23699bc9-2663-486a-b349-58cfedf3e9ec">
 </p>
@@ -49,6 +51,7 @@
 
 ## **SQL**
 ### [**Storytelling com SQL — Analisando dados de RH**](https://github.com/HenriqueWF/SQL_RH/tree/main)
+ - [**Acesse meu artigo completo no Medium**](https://medium.com/@henriquewfranco/storytelling-com-sql-analisando-dados-de-rh-ce60ec2f3122)
  - Realizei uma análise de uma base de dados de RH apenas utilizando SQL.
  - Meu objetivo foi compreender o que leva os funcionários a saírem da empresa e como melhorar o ambiente de trabalho e a retenção de talentos.
  - Por exemplo, consegui verificar que:
@@ -67,6 +70,7 @@
 
 ## **ARTIGOS**
 ### [**Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais**](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
+ - [**Acesse meu artigo completo no Medium**](https://medium.com/data-hackers/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
  - Escrevi um guia de como utilizar a biblioteca PyDeck para Visualização de Dados Geoespaciais.
 <p align="center">
   <img alt="Pydeck" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/b2ba82c6-e728-4517-bb4f-44169a6b5def">
@@ -74,6 +78,7 @@
 
 ### [**Matplotlib e Storytelling com Dados - Pt. I**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60)
  - Artigo publicado no [Data Hackers](https://medium.com/data-hackers);
+ - [**Acesse meu artigo completo no Medium**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60)
  - Escrevi sobre o funcionamento do Matplotlib, em que:
    - Expliquei sobre a hierarquia dessa biblioteca
    - Mostrei as diferenças entre Interface Pyplot e Interface Orientada a Objetos
@@ -84,6 +89,7 @@
 
 ### [**Matplotlib e Storytelling com Dados - Pt. II**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-ii-35e0da269a1e)
  - Artigo publicado no [Data Hackers](https://medium.com/data-hackers);
+ - [**Acesse meu artigo completo no Medium**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-ii-35e0da269a1e)
  - Escrevi um passo a passo de como criar um gráfico informativo por meio dessa biblioteca do Python. O texto foi dividido conforme as seis lições que Cole Nussbaumer apresenta em seu livro:
    - 1. Entenda o contexto
    - 2. Escolha uma apresentação visual adequada
@@ -97,7 +103,8 @@
 
 
 ### [**Compiladados! — O compilado de materiais da área de dados**](https://medium.com/@henriquewfranco/compiladados-o-compilado-de-materiais-da-%C3%A1rea-de-dados-0e59c5609e6e)
- - Fiz um compilado de materiais e indicações de conteúdos gratuitos ou com preços acessíveis para ajudar pessoas que estão migrando de carreira e/ou estejam iniciando nos estudos de Análise e Ciência de Dados. 
+ - [**Acesse meu artigo completo no Medium**](https://medium.com/@henriquewfranco/compiladados-o-compilado-de-materiais-da-%C3%A1rea-de-dados-0e59c5609e6e)
+ - Fiz um compilado de materiais e indicações de conteúdos GRATUITOS ou com PREÇOS ACESSÍVEIS para ajudar pessoas que estão migrando de carreira e/ou estejam iniciando nos estudos de Análise e Ciência de Dados. 
 <p align="center">
   <img alt="Compiladados" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/e41e927f-41c0-4f46-9827-b6c31ebe221d">
 </p>

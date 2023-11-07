@@ -110,13 +110,13 @@
 </p>
 
 ## **SOBRE**
-Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência de mais de dois anos em suporte de infraestrutura de TI.
-
 Sou formado em Ciências Biológicas pela PUCPR. Nessa graduação, recebi o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Durante o curso, realizei diversas análises de dados de experimentos.
 
 Todavia, embora minha carreira tenha começado na Biologia, foi na área da TI que encontrei minha verdadeira vocação.
 
-Como gestor de TI, uma de minhas funções foi realizar o **monitoramento de chamados, coletando e analisando dados com Excel e Power BI**.
+Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência em suporte de infraestrutura de TI.
+
+Como gestor, uma de minhas funções foi realizar o **monitoramento de chamados, coletando e analisando dados com Excel e Power BI**.
 
 Por meio das análises, liderei a otimização de nossos processos internos, o que resultou em uma redução significativa no tempo de resposta aos chamados dos clientes. Em menos de 3 meses, conseguimos diminuir o tempo de trabalho em 50%, mantendo o faturamento da empresa.
 
@@ -127,7 +127,7 @@ Atualmente, meu foco profissional está direcionado para a Análise e Ciência d
 Possuo conhecimentos nas linguagens de programação SQL e Python, com projetos usando bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn, além de ter experiência em ferramentas como Power BI e Excel.
 
 ## CONTATO
-Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo através dos links abaixo:
+Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/henriquewfranco/)

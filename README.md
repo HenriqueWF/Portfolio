@@ -2,14 +2,26 @@
 [![author](https://img.shields.io/badge/author-henriquewfranco-red.svg)](https://www.linkedin.com/in/henriquewfranco/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 <p align="center">
-  <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=50%>
+  <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=40%>
 </p>
 
 ## **PROJETOS**
 
 ## **Power BI**
+
+### [**Customer Reviews Analysis - British Airways**](https://github.com/HenriqueWF/PBI_BA/tree/main)
+ - **Dashboard sobre avaliações dos clientes da companhia aérea British Airways**, em que foram realizadas avaliações comparativas dos serviços, perfil de cliente, rotas e frota da BA entre passageiros que recomendam ou não a companhia aérea.
+ - Para obter os dados, fiz um Web Scraping utilizando as bibliotecas BeautifulSoup e Selenium para automatizar a tarefa.
+ - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODkxNmRiMTktMjI3MC00MTRiLTkxNjMtNTA3YTZjYjI3NTQ1IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/HenriqueWF/PBI_BA/tree/main)
+<p align="center">
+  <img alt="BA" width="65%" src="https://github.com/HenriqueWF/PBI_BA/assets/86746927/30ffef7d-91a8-4599-ab0e-e861655d73e6">
+</p>
+
 ### [**Pandemia COVID-19**](https://github.com/HenriqueWF/PBICovid/tree/main)
  - **Dashboard que complementa o meu estudo da COVID-19 (projeto abaixo)**, o qual teve como foco os registros de óbitos e casos confirmados da doença.
+ - [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNmYTQ0NDYtZTk3Zi00NzZmLThmODktMTg2MDZkYjQxMzA3IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
+ - [Clique aqui para obter mais detalhes do projeto](https://github.com/HenriqueWF/PBICovid/tree/main)
 <p align="center">
   <img alt="Covid-19" width="65%" src="https://github.com/HenriqueWF/PBICovid/assets/86746927/0dba1ada-74a3-46e8-9069-e995c28a2896">
 </p>
@@ -46,6 +58,10 @@
 ### [**British Airways(BA)**](https://github.com/HenriqueWF/British_Airways)
  - **Trabalho em grupo em andamento.**
  - Web Scraping, utilizando Selenium e Beautiful Soup, de feedback de clientes em site de avaliações
+<p align="center">
+  <img alt="BA" width="50%" src="https://github.com/HenriqueWF/PBI_BA/assets/86746927/60902bda-91d0-4513-b4e7-672e1016661f">
+</p>
+
  - Análise exploratória utilizando Python e bibliotecas de dados para verificar reviews dos clientes
  - Criação de modelo preditivo para identificar clientes com maior propensão de compra de passagens
 
@@ -67,9 +83,14 @@
 </p>
 
  - A partir dos achados, fiz algumas recomendações de estratégias para serem adotadas pela empresa, a fim de aprimorar a retenção de funcionários.
+<p align="center">
+  <img alt="SQL" width="55%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/1518c3bc-1ed6-44c0-bb13-9d07a67a0333">
+</p>
+
 
 ## **ARTIGOS**
 ### [**Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais**](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
+ - Artigo publicado no [Data Hackers](https://medium.com/data-hackers); 
  - [**Acesse meu artigo completo no Medium**](https://medium.com/data-hackers/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
  - Escrevi um guia de como utilizar a biblioteca PyDeck para Visualização de Dados Geoespaciais.
 <p align="center">
@@ -100,7 +121,6 @@
 <p align="center">
   <img alt="Pydeck" width="100%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/d08e2b6c-c049-4f36-9dc4-067ee5771b9a" >
 </p>
-
 
 ### [**Compiladados! — O compilado de materiais da área de dados**](https://medium.com/@henriquewfranco/compiladados-o-compilado-de-materiais-da-%C3%A1rea-de-dados-0e59c5609e6e)
  - [**Acesse meu artigo completo no Medium**](https://medium.com/@henriquewfranco/compiladados-o-compilado-de-materiais-da-%C3%A1rea-de-dados-0e59c5609e6e)

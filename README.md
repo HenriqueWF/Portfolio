@@ -130,21 +130,17 @@
 </p>
 
 ## **SOBRE**
-Sou formado em Ciências Biológicas pela PUCPR. Nessa graduação, recebi o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Durante o curso, realizei diversas análises de dados de experimentos.
+Olá! Prazer, sou o Henrique Franco. 
 
-Todavia, embora minha carreira tenha começado na Biologia, foi na área da TI que encontrei minha verdadeira vocação.
+Possuo experiência profissional com gestão de TI e análise de dados, além de mais de dois anos dedicados ao suporte de infraestrutura de TI.
 
-Fui gestor de TI, em que pude trabalhar com análise de dados, e possuo experiência em suporte de infraestrutura de TI.
+Sou formado em Ciências Biológicas pela PUCPR e tive a honra de receber o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Ao longo da graduação, realizei diversas análises de dados de experimentos, o que proporcionou o desenvolvimento de minhas habilidades analíticas.
 
-Como gestor, uma de minhas funções foi realizar o **monitoramento de chamados, coletando e analisando dados com Excel e Power BI**.
+Todavia, embora minha trajetória profissional tenha começado na Biologia, em 2021 realizei uma transição de carreira para a área de tecnologia. Comecei como suporte de infraestrutura e, posteriormente, assumi a posição de Gestor de TI.
 
-Por meio das análises, liderei a otimização de nossos processos internos, o que resultou em uma redução significativa no tempo de resposta aos chamados dos clientes. Em menos de 3 meses, conseguimos diminuir o tempo de trabalho em 50%, mantendo o faturamento da empresa.
+Na gestão, liderei a implementação de análise de dados na empresa. Uma de minhas responsabilidades foi realizar o monitoramento de chamados, coletando e analisando dados com Excel e Power BI.
 
-Além disso, possuo mais de dois anos de experiência em suporte terceirizado de infraestrutura de TI, em que desenvolvi uma visão abrangente dos desafios tecnológicos corporativos. 
-
-Atualmente, meu foco profissional está direcionado para a Análise e Ciência de Dados. 
-
-Possuo conhecimentos nas linguagens de programação SQL e Python, com projetos usando bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn, além de ter experiência em ferramentas como Power BI e Excel.
+Além disso, possuo conhecimentos nas linguagens de programação SQL e Python, com projetos usando bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn. E, também, tenho sólida experiência em ferramentas como Power BI e Excel. 
 
 ## CONTATO
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:

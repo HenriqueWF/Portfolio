@@ -135,19 +135,19 @@ Olá! Prazer, sou o Henrique Franco.
 📌 Trabalho com análise de dados há quase 2 anos, além de ter mais de 2 anos de experiência em infraestrutura de TI.
 
 📌 Utilizando Power BI, SQL, Excel e Python, já atuei com diferentes setores corporativos, como comercial, jurídico, financeiro, RH e logística.
- ↳ Isso auxiliou o meu desenvolvimento em me comunicar e em traduzir, de forma simples e acessível, a interpretação de insights para diferentes públicos.
+   <br> ↳ Isso auxiliou o meu desenvolvimento em me comunicar e em traduzir, de forma simples e acessível, a interpretação de insights para diferentes públicos.
 
 📌 Com experiência em storytelling com dados, busco não apresentar apenas números e gráficos, mas entender as necessidades de um negócio e, assim, fornecer soluções para os problemas.
 
 🧑🏼‍🎓 Sou formado em Ciências Biológicas pela PUCPR e recebi o Prêmio Marcelino Champagnat pelo melhor desempenho acadêmico.
-       ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
+   <br> ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
 
 🧑🏼‍💻 Possuo conhecimentos técnicos em: 
- ➢ - SQL 
- ➢ - Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
- ➢ - DataViz (PowerBI) e Figma
- ➢ - Excel
- ➢ - Estatística
+ - SQL
+ - Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
+ - DataViz (PowerBI) e Figma
+ - Excel
+ - Estatística
 
 ## CONTATO
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:

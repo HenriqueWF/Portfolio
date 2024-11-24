@@ -130,17 +130,24 @@
 </p>
 
 ## **SOBRE**
-Olá! Prazer, sou o Henrique Franco. 
+Olá! Prazer, sou o Henrique Franco.
 
-Possuo experiência profissional com gestão de TI e análise de dados, além de mais de dois anos dedicados ao suporte de infraestrutura de TI.
+📌 Trabalho com análise de dados há quase 2 anos, além de ter mais de 2 anos de experiência em infraestrutura de TI.
 
-Sou formado em Ciências Biológicas pela PUCPR e tive a honra de receber o **Prêmio Marcelino Champagnat de melhor desempenho acadêmico do curso**. Ao longo da graduação, realizei diversas análises de dados de experimentos, o que proporcionou o desenvolvimento de minhas habilidades analíticas.
+📌 Utilizando Power BI, SQL, Excel e Python, já atuei com diferentes setores corporativos, como comercial, jurídico, financeiro, RH e logística.
+ ↳ Isso auxiliou o meu desenvolvimento em me comunicar e em traduzir, de forma simples e acessível, a interpretação de insights para diferentes públicos.
 
-Todavia, embora minha trajetória profissional tenha começado na Biologia, em 2021 realizei uma transição de carreira para a área de tecnologia. Comecei como suporte de infraestrutura e, posteriormente, assumi a posição de Gestor de TI.
+📌 Com experiência em storytelling com dados, busco não apresentar apenas números e gráficos, mas entender as necessidades de um negócio e, assim, fornecer soluções para os problemas.
 
-Na gestão, liderei a implementação de análise de dados na empresa. Uma de minhas responsabilidades foi realizar o monitoramento de chamados, coletando e analisando dados com Excel e Power BI.
+🧑🏼‍🎓 Sou formado em Ciências Biológicas pela PUCPR e recebi o Prêmio Marcelino Champagnat pelo melhor desempenho acadêmico.
+ ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
 
-Além disso, possuo conhecimentos nas linguagens de programação SQL e Python, com projetos usando bibliotecas como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn. E, também, tenho sólida experiência em ferramentas como Power BI e Excel. 
+🧑🏼‍💻 Possuo conhecimentos técnicos em: 
+ ➢ SQL 
+ ➢ Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
+ ➢ DataViz (PowerBI) e Figma
+ ➢ Excel
+ ➢ Estatística
 
 ## CONTATO
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:

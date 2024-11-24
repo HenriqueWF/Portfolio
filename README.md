@@ -5,6 +5,35 @@
   <img src="https://github.com/HenriqueWF/Portfolio/assets/86746927/2e663706-31cc-48f8-9bb5-42f4678eb72f" width=40%>
 </p>
 
+## **SOBRE**
+Olá! Prazer, sou o Henrique Franco.
+
+📌 Trabalho com análise de dados há quase 2 anos, além de ter mais de 2 anos de experiência em infraestrutura de TI.
+
+📌 Utilizando Power BI, SQL, Excel e Python, já atuei com diferentes setores corporativos, como comercial, jurídico, financeiro, RH e logística.
+   <br> ↳ Isso auxiliou o meu desenvolvimento em me comunicar e em traduzir, de forma simples e acessível, a interpretação de insights para diferentes públicos.
+
+📌 Com experiência em storytelling com dados, busco não apresentar apenas números e gráficos, mas entender as necessidades de um negócio e, assim, fornecer soluções para os problemas.
+
+🧑🏼‍🎓 Sou formado em Ciências Biológicas pela PUCPR e recebi o Prêmio Marcelino Champagnat pelo melhor desempenho acadêmico.
+   <br> ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
+
+🧑🏼‍💻 Possuo conhecimentos técnicos em: 
+ - SQL
+ - Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
+ - DataViz (PowerBI) e Figma
+ - Excel
+ - Estatística
+
+## CONTATO
+Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
+
+**Links para me acharem:**
+* [LinkedIn](https://www.linkedin.com/in/henriquewfranco/)
+* [Kaggle](https://www.kaggle.com/henriquewfranco)
+* [Medium](https://medium.com/@henriquewfranco)
+* [GitHub](https://github.com/HenriqueWF)
+
 ## **PROJETOS**
 
 ## **Power BI**
@@ -128,33 +157,4 @@
 <p align="center">
   <img alt="Compiladados" width="50%" src="https://github.com/HenriqueWF/Portfolio/assets/86746927/e41e927f-41c0-4f46-9827-b6c31ebe221d">
 </p>
-
-## **SOBRE**
-Olá! Prazer, sou o Henrique Franco.
-
-📌 Trabalho com análise de dados há quase 2 anos, além de ter mais de 2 anos de experiência em infraestrutura de TI.
-
-📌 Utilizando Power BI, SQL, Excel e Python, já atuei com diferentes setores corporativos, como comercial, jurídico, financeiro, RH e logística.
-   <br> ↳ Isso auxiliou o meu desenvolvimento em me comunicar e em traduzir, de forma simples e acessível, a interpretação de insights para diferentes públicos.
-
-📌 Com experiência em storytelling com dados, busco não apresentar apenas números e gráficos, mas entender as necessidades de um negócio e, assim, fornecer soluções para os problemas.
-
-🧑🏼‍🎓 Sou formado em Ciências Biológicas pela PUCPR e recebi o Prêmio Marcelino Champagnat pelo melhor desempenho acadêmico.
-   <br> ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
-
-🧑🏼‍💻 Possuo conhecimentos técnicos em: 
- - SQL
- - Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
- - DataViz (PowerBI) e Figma
- - Excel
- - Estatística
-
-## CONTATO
-Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
-
-**Links para me acharem:**
-* [LinkedIn](https://www.linkedin.com/in/henriquewfranco/)
-* [Kaggle](https://www.kaggle.com/henriquewfranco)
-* [Medium](https://medium.com/@henriquewfranco)
-* [GitHub](https://github.com/HenriqueWF)
 

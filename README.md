@@ -140,20 +140,14 @@ Olá! Prazer, sou o Henrique Franco.
 📌 Com experiência em storytelling com dados, busco não apresentar apenas números e gráficos, mas entender as necessidades de um negócio e, assim, fornecer soluções para os problemas.
 
 🧑🏼‍🎓 Sou formado em Ciências Biológicas pela PUCPR e recebi o Prêmio Marcelino Champagnat pelo melhor desempenho acadêmico.
- 
- ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
+       ↳ Ao longo da graduação, realizei diversas análises de dados de experimentos, o que despertou meu interesse pela área de dados.
 
 🧑🏼‍💻 Possuo conhecimentos técnicos em: 
- 
- ➢ SQL 
- 
- ➢ Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
- 
- ➢ DataViz (PowerBI) e Figma
- 
- ➢ Excel
- 
- ➢ Estatística
+ ➢ - SQL 
+ ➢ - Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
+ ➢ - DataViz (PowerBI) e Figma
+ ➢ - Excel
+ ➢ - Estatística
 
 ## CONTATO
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
